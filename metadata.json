@@ -1,0 +1,6 @@
+{
+  "name": "Rajrani Collection - Ethnic Wear Retail & Wholesale Store",
+  "description": "Premier e-commerce store and wholesale platform for ladies Sarees, Suits, and Lehengas with real-time tracking, tiered wholesale discounts, and multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
