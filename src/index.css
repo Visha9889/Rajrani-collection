@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+:root {
+  /* Retail Theme Colors */
+  --retail-primary: #E91E63;
+  --retail-secondary: #FFD700;
+  --retail-light: #FFF5F7;
+  --retail-dark: #C2185B;
+
+  /* Wholesale Theme Colors */
+  --wholesale-primary: #0066CC;
+  --wholesale-secondary: #00BCD4;
+  --wholesale-light: #E3F2FD;
+  --wholesale-dark: #0044AA;
+
+  /* Status Colors */
+  --status-success: #4CAF50;
+  --status-warning: #FF9800;
+  --status-error: #F44336;
+  --status-info: #2196F3;
+}
+
+.retail-theme {
+  --primary-color: var(--retail-primary);
+  --secondary-color: var(--retail-secondary);
+  --light-bg: var(--retail-light);
+  --dark-color: var(--retail-dark);
+}
+
+.wholesale-theme {
+  --primary-color: var(--wholesale-primary);
+  --secondary-color: var(--wholesale-secondary);
+  --light-bg: var(--wholesale-light);
+  --dark-color: var(--wholesale-dark);
+}
+
